@@ -1,0 +1,34 @@
+_repo: Kings-in-Exile_28530
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2009-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+tableOfContents: Last Bull -- The king of the flaming hoops -- The monarch of Park
+  Barren -- The gray master -- The sun-gazer -- The lord of the glass house -- Back
+  to the water world -- Lone wolf -- The bear's face -- The duel on the trail.
+title: Kings in Exile
+url: http://www.gutenberg.org/ebooks/28530
